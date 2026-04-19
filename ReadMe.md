@@ -112,5 +112,9 @@ NORMAL RUNNING PROCESS
 
  c.start server.
 
+ Other notes
+
+ you can add new chats or users by hitting history in our app
+
  d.open game coach app and enjoy.
 
