@@ -56,7 +56,7 @@ Step Three, installing the ai---------------------------------------------------
 
  a.Run lm studio if its not already running
 
- b.If it asks you to install a model when opening it hit skip
+ b.If it asks you to install a model when opening it hit skip and continue
 
  c.Locate the model search button on the left side of the window.
 
