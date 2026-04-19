@@ -22,7 +22,7 @@ Step One, install our app-------------------------------------------------------
 
  a.Download our Game Coach setup exe from our git Link:github.com/TheTinker03/Artemis_Team_02_PublicRelease
  
- b.Find the exe file and hit the download button near the top left of your screen.
+ b.Find the exe file in the center of the screen and hit it, then hit the download button near the top right of your screen.
 
  c.After you downloaded it double click it.
 
