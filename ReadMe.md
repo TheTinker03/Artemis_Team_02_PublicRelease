@@ -92,7 +92,7 @@ Step Four, running the model----------------------------------------------------
 
  c.Hit new session and name it what you want to and hit create.
 
- d.This is important, there is a box that says model at the bottom left, insert your model name there for you it is:qwen3-vl-8b
+ d.This is important, there is a box that says model at the bottom right, insert your model name there for you it is:qwen3-vl-8b
 
  e.You can now drag mp4's or press insert media and select a video
 
