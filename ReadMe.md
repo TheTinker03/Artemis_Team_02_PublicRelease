@@ -13,7 +13,7 @@ Data is located in your AppData location in roaming.
 
 WINDOWS INSTALL
 
-I hate reading and I want a video tutorial:
+I hate reading and I want a video tutorial: https://youtu.be/Bjkw375HnV0
 
 
 
