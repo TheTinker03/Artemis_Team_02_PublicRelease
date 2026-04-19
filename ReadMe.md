@@ -66,7 +66,7 @@ Step Three, installing the ai---------------------------------------------------
 
  f.After it has installed successfully find the developer tab on the left (should be above the model search tab)
 
- g.Select server settings
+ g.Select server settings at the top
 
  h.Enable the CORS option
 
